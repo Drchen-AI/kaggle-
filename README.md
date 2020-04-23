@@ -1,2 +1,2 @@
 # kaggle-
-kaggle实在的笔记
+kaggle实战的笔记
